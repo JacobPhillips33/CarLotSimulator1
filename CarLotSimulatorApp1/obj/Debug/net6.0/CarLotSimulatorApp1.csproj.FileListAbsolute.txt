@@ -1,0 +1,15 @@
+C:\Users\Jake\Desktop\Repos\CarLotSimulatorApp1\CarLotSimulatorApp1\bin\Debug\net6.0\CarLotSimulatorApp1.exe
+C:\Users\Jake\Desktop\Repos\CarLotSimulatorApp1\CarLotSimulatorApp1\bin\Debug\net6.0\CarLotSimulatorApp1.deps.json
+C:\Users\Jake\Desktop\Repos\CarLotSimulatorApp1\CarLotSimulatorApp1\bin\Debug\net6.0\CarLotSimulatorApp1.runtimeconfig.json
+C:\Users\Jake\Desktop\Repos\CarLotSimulatorApp1\CarLotSimulatorApp1\bin\Debug\net6.0\CarLotSimulatorApp1.dll
+C:\Users\Jake\Desktop\Repos\CarLotSimulatorApp1\CarLotSimulatorApp1\bin\Debug\net6.0\CarLotSimulatorApp1.pdb
+C:\Users\Jake\Desktop\Repos\CarLotSimulatorApp1\CarLotSimulatorApp1\obj\Debug\net6.0\CarLotSimulatorApp1.csproj.AssemblyReference.cache
+C:\Users\Jake\Desktop\Repos\CarLotSimulatorApp1\CarLotSimulatorApp1\obj\Debug\net6.0\CarLotSimulatorApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jake\Desktop\Repos\CarLotSimulatorApp1\CarLotSimulatorApp1\obj\Debug\net6.0\CarLotSimulatorApp1.AssemblyInfoInputs.cache
+C:\Users\Jake\Desktop\Repos\CarLotSimulatorApp1\CarLotSimulatorApp1\obj\Debug\net6.0\CarLotSimulatorApp1.AssemblyInfo.cs
+C:\Users\Jake\Desktop\Repos\CarLotSimulatorApp1\CarLotSimulatorApp1\obj\Debug\net6.0\CarLotSimulatorApp1.csproj.CoreCompileInputs.cache
+C:\Users\Jake\Desktop\Repos\CarLotSimulatorApp1\CarLotSimulatorApp1\obj\Debug\net6.0\CarLotSimulatorApp1.dll
+C:\Users\Jake\Desktop\Repos\CarLotSimulatorApp1\CarLotSimulatorApp1\obj\Debug\net6.0\refint\CarLotSimulatorApp1.dll
+C:\Users\Jake\Desktop\Repos\CarLotSimulatorApp1\CarLotSimulatorApp1\obj\Debug\net6.0\CarLotSimulatorApp1.pdb
+C:\Users\Jake\Desktop\Repos\CarLotSimulatorApp1\CarLotSimulatorApp1\obj\Debug\net6.0\CarLotSimulatorApp1.genruntimeconfig.cache
+C:\Users\Jake\Desktop\Repos\CarLotSimulatorApp1\CarLotSimulatorApp1\obj\Debug\net6.0\ref\CarLotSimulatorApp1.dll
